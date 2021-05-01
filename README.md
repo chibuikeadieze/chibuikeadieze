@@ -9,14 +9,14 @@ I am passionate about data insights and how to convert it to be useful to others
 
 For the sake of emphasis, 🐍Python, R and SQL are my preferred language.
 
-Some of the tools I am frequently use are
+Some of the tools I am frequently use are:
 
 Python libraries (Pandas, Numpy, Matplotlib, Scikit-learn, Spacy)
 Other tools (Visual studio, Github, Tableau, Jupyterlab)
-Other tools I am familar with but still working on are
+Other tools I am familiar with but still working on are
 AWS, Docker, Terraform.
 
-📫  Apart from my github profile, you can also contact me on [LinkedIn](www.linkedin.com/in/chibuike-adieze). I am always up for a challenge😀
+📫  Apart from my Github profile, you can also contact me on [LinkedIn](www.linkedin.com/in/chibuike-adieze). I am always up for a challenge😀
 
 
 <!---
